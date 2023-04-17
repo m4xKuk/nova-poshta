@@ -1,0 +1,1 @@
+Save api in a file. And logging using api vs cache
